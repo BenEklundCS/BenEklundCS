@@ -8,8 +8,6 @@ Software Developer
 * 🖥️  See my portfolio at [www.beneklund.com](http://www.beneklund.com)
 * ✉️  You can contact me at [eklundbenjaminj@gmail.com](mailto:eklundbenjaminj@gmail.com)
 * 🚀  I'm currently working on [The Land of Boars](http://github.com/BenEklundCS/The-Land-of-Boars)
-* 🧠  I'm learning Web Development on the side of my typical C++
-* 🤝  I'm open to collaborating on any projects you'd like to send my way!
 
 ### Skills
 

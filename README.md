@@ -7,7 +7,6 @@ Software Developer
 * 🌍  I'm based in Sacramento
 * 🖥️  See my portfolio at [www.beneklund.com](http://www.beneklund.com)
 * ✉️  You can contact me at [eklundbenjaminj@gmail.com](mailto:eklundbenjaminj@gmail.com)
-* 🚀  I'm currently working on [The Land of Boars](http://github.com/BenEklundCS/The-Land-of-Boars)
 
 ### Skills
 

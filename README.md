@@ -24,7 +24,7 @@ A local-first RAG pipeline for personal notes and text corpora using Typesense, 
 
 ---
 
-### [Cosmic Doom](https://github.com/BenEklundCS/Cosmic-Doom)  
+### [Cosmic Doom (WIP)](https://github.com/BenEklundCS/Cosmic-Doom)  
 `C#` `Game Development`  
 A custom first-person shooter built in C# using the Godot Engine, with bespoke weapon systems and gameplay inspired by 1990s FPS titles like *Doom* and *Wolfenstein*.
 

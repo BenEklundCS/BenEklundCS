@@ -1,9 +1,6 @@
 # Hi, I’m Ben Eklund
 
-**Support Application Engineer @ Inductive Automation**  
-Software engineer building internal tools, data platforms, RAG systems, and interactive applications.
-
-Currently: Working on **[Cosmic Doom](https://github.com/BenEklundCS/Cosmic-Doom)** · Studying *[Crafting Interpreters](https://craftinginterpreters.com/)* · Contributing to the Godot Engine.
+**Software Engineer @ Inductive Automation**  
 
 📍 Sacramento, CA · 🌐 [beneklund.com](https://www.beneklund.com) · 📫 [eklundbenjaminj@gmail.com](mailto:eklundbenjaminj@gmail.com)
 
